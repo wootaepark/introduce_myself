@@ -1,0 +1,42 @@
+
+h1{
+    border : 5px dashed rgb(225, 219, 30);
+    color:gray;
+    margin:10px 20px;
+}
+#headLine{
+    padding : 0px 300px;
+}
+#pictureSub{
+    
+    margin-top:50px;
+    border:3px dashed orange;
+}
+mark,#age{
+    color:green;
+}
+#name{
+    color:rgb(221, 22, 188);
+}
+#bodycamera{
+    
+    margin:10px 0px 0px 0px;
+}
+img{
+    
+    border:2px dotted black;
+}
+#link{
+    
+    border:2px solid pink;
+}
+#like{
+    color:darkturquoise;
+}
+#dislike{
+color:brown;
+}
+#last{
+    margin-bottom:70px;
+}
+
